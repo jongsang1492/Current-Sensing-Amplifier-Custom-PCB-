@@ -111,7 +111,8 @@ Design considerations included:
 
 The PCB was successfully manufactured and assembled.
 
-<img width="456" height="461" alt="Screenshot 2026-03-11 at 6 16 12 PM" src="https://github.com/user-attachments/assets/195e4153-ce76-4e6a-b6c6-5bc0bdfc7005" />
+![IMG_0158](https://github.com/user-attachments/assets/5966bdde-1616-46e3-993f-3600ec391a3d)
+
 
 
 ---
