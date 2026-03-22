@@ -103,11 +103,16 @@ Key layout considerations included:
 
 ---
 
+
 # Fabricated Board
 
 The PCB was successfully manufactured and assembled, demonstrating the complete hardware implementation of the current sensing circuit.
+| View | Image |
+|------|-------|
+| **Top Layer** | <img width="330" alt="Isometric View" src="https://github.com/user-attachments/assets/1d54bb04-e8c8-4de2-936e-2f6536915c7f" /> |
+| **Bottom Layer** | <img width="330" alt="Top View" src="https://github.com/user-attachments/assets/badb0c23-d237-4793-b14c-1cc21c202a7d" /> |
 
-![Fabricated PCB](https://github.com/user-attachments/assets/5966bdde-1616-46e3-993f-3600ec391a3d)
+
 
 ---
 
